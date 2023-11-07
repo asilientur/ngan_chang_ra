@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         b-i-l-i-c-o-m-i-c-s
 // @namespace    https://github.com/asilientur/ngan_chang_ra/raw/main/b-i-l-i-c-o-m-i-c-s.user.js
-// @version      2023.11.07
+// @version      2023.11.08
 // @description  down b-i-l-i-c-o-m-i-c-s
 // @author       You
 // @match        https://www.bilibilicomics.com/mc*/*
